@@ -1,4 +1,11 @@
-# Linux-Password-Reset
+
+
+
+
+<p align="center"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1280px-Tux.svg.png" alt="Linux-Password-Reset" width="80px" height="80px">
+</p>
+<h1 align="center">Linux-Password-Reset</h1>
 
 
 ## Stop grub boot
